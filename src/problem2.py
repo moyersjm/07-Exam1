@@ -471,7 +471,8 @@ def problem1c(m):
     # TODO (continued)    You get   NO credit   if your solution is more
     # TODO (continued)    than 3 lines of code (and it can be done in 1 line).
     ############################################################################
-
+    # okay you win I can't figure this one out.
+    # There's probably some command (maybe that detects prime numbers or something) that I don't know that would help.
 
 
 ################################################################################
